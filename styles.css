@@ -86,7 +86,7 @@ nav {
 .nav__logo {
     max-width: 150px;
     color: #ffffff;
-    font-weight: bold;          /* Makes the text bold */
+    font-weight: bold;          
     padding: 10px 0;            /* Adds some padding for spacing */
     display: flex;              /* Flexbox layout */
     align-items: center;        /* Vertically centers the text */
